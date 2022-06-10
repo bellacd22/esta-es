@@ -1,0 +1,55 @@
+td
+{
+    border-radius: 5%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(220, 20, 20);
+    font-size: x-large;
+    font-family: Arial;
+    text-align: center;
+} 
+td.a
+{
+    width: 100px;
+}  
+table
+{
+    width: 700px;
+}
+
+tr.a
+{
+    height: 50px;
+}
+tr.b
+{
+    height: 100px;
+    max-height: 100px;
+}
+#verde
+{
+    border-color: rgb(0, 102, 0);
+}
+
+#amarelo
+{
+    border-color: rgb(255, 209, 6);
+}
+#marrom
+{
+    border-color:rgb(128, 30, 1) ;
+}
+
+#azul 
+{
+    border-color: rgb(19, 19, 194);
+}
+.rotacao
+{
+    transform: rotate(-90deg);
+
+}
+
+
+
+
